@@ -19,6 +19,13 @@ html, body{
     /* background-color: aquamarine; */
 }
 
+img{
+    width: 10vw;
+    height: 10vw;
+    margin-top: -5vh;
+    margin-left: 1vw;
+}
+
 #title{
     position: absolute;
     top: 50%;
